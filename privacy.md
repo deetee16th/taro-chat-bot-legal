@@ -1,3 +1,7 @@
+---
+title: Taro Chat Bot - Privacy Policy
+---
+
 # Taro Chat Bot — Privacy Policy
 
 **Last updated: August 23, 2026**

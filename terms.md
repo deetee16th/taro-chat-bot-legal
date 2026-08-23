@@ -1,3 +1,7 @@
+---
+title: Taro Chat Bot - Terms of Service
+---
+
 # Taro Chat Bot — Terms of Service
 
 **Last updated: August 23, 2026**
